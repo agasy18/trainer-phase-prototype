@@ -1,6 +1,6 @@
 # Trainer Phase Prototype
 
-50 epoch teaining result
+50 epoch training result
 
 ```
 
